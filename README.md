@@ -3,6 +3,10 @@
 This is a repo for my physics lab project "Numerical analysis of pendulum dynamics".
 Pendulum systems are often considered as first examples in classical mechanics studies. They are very interesting systems and can help us learn more about the theory of dynamical systems. In my project, I will be using numerical methods to investigate the behaviour of a simple pendulum, a double pendulum and finally a triple pendulum motion. By studying the phase space and Poincare section of the damped driven pendulum and double pendulum we will get to witness chaos and interesting properties. Finally, I will be simulating the motion of a triple pendulum and vary the initial conditions for multiple triple pendulums and witness chaos.
 
+
+* Lab Report : https://drive.google.com/file/d/1dEoMNAu9PUTiCxk6VDcYOIxdrtki_MuN/view?usp=sharing
+
+
 ## Getting Started
 
 You can download/clone the whole repo and jupyter notebook on your system to run it. You can follow this alternative way of running the notebooks/python codes using binder:
