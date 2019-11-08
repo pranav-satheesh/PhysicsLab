@@ -9,7 +9,7 @@ You can download/clone the whole repo and jupyter notebook on your system to run
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pranavastro/PhysicsLab/master)
 
-![Test Image 1](https://github.com/pranavastro/PhysicsLab/blob/master/Plots/chaoticpendulumpoincare.pdf)
+![Test Image 1](https://github.com/pranavastro/PhysicsLab/blob/master/Plots/frame_130_delay-0.05s.jpg)
 
 
 
